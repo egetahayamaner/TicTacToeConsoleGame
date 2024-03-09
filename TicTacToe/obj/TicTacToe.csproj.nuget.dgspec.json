@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/TicTacToe.csproj": {}
+  },
+  "projects": {
+    "/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/TicTacToe.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/TicTacToe.csproj",
+        "projectName": "TicTacToe",
+        "projectPath": "/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/TicTacToe.csproj",
+        "packagesPath": "/Users/egetahayamaner/.nuget/packages/",
+        "outputPath": "/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/egetahayamaner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.417/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

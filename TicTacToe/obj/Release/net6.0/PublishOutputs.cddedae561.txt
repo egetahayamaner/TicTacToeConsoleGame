@@ -1,0 +1,5 @@
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/bin/Release/net6.0/publish/TicTacToe
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/bin/Release/net6.0/publish/TicTacToe.dll
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/bin/Release/net6.0/publish/TicTacToe.deps.json
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/bin/Release/net6.0/publish/TicTacToe.runtimeconfig.json
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/bin/Release/net6.0/publish/TicTacToe.pdb

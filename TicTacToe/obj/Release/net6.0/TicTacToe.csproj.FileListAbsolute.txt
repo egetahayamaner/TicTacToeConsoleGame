@@ -1,0 +1,15 @@
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/bin/Release/net6.0/TicTacToe
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/bin/Release/net6.0/TicTacToe.deps.json
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/bin/Release/net6.0/TicTacToe.runtimeconfig.json
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/bin/Release/net6.0/TicTacToe.dll
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/bin/Release/net6.0/TicTacToe.pdb
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/obj/Release/net6.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/obj/Release/net6.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/obj/Release/net6.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/obj/Release/net6.0/TicTacToe.AssemblyInfo.cs
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/obj/Release/net6.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/obj/Release/net6.0/TicTacToe.dll
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/obj/Release/net6.0/refint/TicTacToe.dll
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/obj/Release/net6.0/TicTacToe.pdb
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/obj/Release/net6.0/TicTacToe.genruntimeconfig.cache
+/Users/egetahayamaner/RiderProjects/TicTacToe/TicTacToe/obj/Release/net6.0/ref/TicTacToe.dll
